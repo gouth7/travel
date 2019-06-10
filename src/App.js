@@ -149,7 +149,7 @@ export class MapContainer extends Component {
     );
   }
 }
-
+var mapskey = config.MAPS;
 export default GoogleApiWrapper({
-  apiKey: 'AIzaSyCnY73kvyiQLtQwpli9k2GgD-G0dlAe8N0'
+  apiKey: mapskey
 })(MapContainer)
