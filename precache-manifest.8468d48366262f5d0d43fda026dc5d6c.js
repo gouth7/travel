@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/travel/static/media/chicago2.44d571e7.jpg"
   },
   {
-    "revision": "37c4cdb057911b28730f",
-    "url": "/travel/static/js/main.37c4cdb0.chunk.js"
+    "revision": "0599a93b2a33b9ea5e4b",
+    "url": "/travel/static/js/main.0599a93b.chunk.js"
   },
   {
     "revision": "de40c803f9f82dc7c16d44a2200efab2",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/travel/static/css/1.ae347efd.chunk.css"
   },
   {
-    "revision": "912bf02037dd19d7f7eb1b6e29e46f23",
+    "revision": "21f7fba431b69b731c56f6a5ea797e41",
     "url": "/travel/index.html"
   }
 ];

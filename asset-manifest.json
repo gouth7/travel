@@ -1,6 +1,6 @@
 {
-  "main.js": "/travel/static/js/main.37c4cdb0.chunk.js",
-  "main.js.map": "/travel/static/js/main.37c4cdb0.chunk.js.map",
+  "main.js": "/travel/static/js/main.0599a93b.chunk.js",
+  "main.js.map": "/travel/static/js/main.0599a93b.chunk.js.map",
   "static/css/1.ae347efd.chunk.css": "/travel/static/css/1.ae347efd.chunk.css",
   "static/js/1.0459e164.chunk.js": "/travel/static/js/1.0459e164.chunk.js",
   "static/js/1.0459e164.chunk.js.map": "/travel/static/js/1.0459e164.chunk.js.map",
@@ -14,6 +14,6 @@
   "static/media/chicago2.jpg": "/travel/static/media/chicago2.44d571e7.jpg",
   "static/css/1.ae347efd.chunk.css.map": "/travel/static/css/1.ae347efd.chunk.css.map",
   "index.html": "/travel/index.html",
-  "precache-manifest.a81511c8a1fb0dc63c73ca67a684b231.js": "/travel/precache-manifest.a81511c8a1fb0dc63c73ca67a684b231.js",
+  "precache-manifest.8468d48366262f5d0d43fda026dc5d6c.js": "/travel/precache-manifest.8468d48366262f5d0d43fda026dc5d6c.js",
   "service-worker.js": "/travel/service-worker.js"
 }
