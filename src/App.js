@@ -5,13 +5,8 @@ import {Modal} from './Modal.js'
 import {LightboxExample} from './Lightbox.js'
 import '../node_modules/react-modal-video/scss/modal-video.scss';
 
-import SideNav, { Toggle, Nav, NavItem, NavIcon, NavText } from '@trendmicro/react-sidenav';
-
 // Be sure to include styles at some point, probably during your bootstraping
 import '@trendmicro/react-sidenav/dist/react-sidenav.css';
-
-
-
 
 export class MapContainer extends Component {
 
@@ -149,7 +144,6 @@ export class MapContainer extends Component {
     );
   }
 }
-var mapskey = config.MAPS;
 export default GoogleApiWrapper({
-  apiKey: mapskey
+  apiKey: 'AIzaSyA14G97kK3N0hbORLzfUDM6xaIlYpZg6V8'
 })(MapContainer)
