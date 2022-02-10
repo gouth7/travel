@@ -6,7 +6,7 @@
   "dependencies": {
     "@trendmicro/react-sidenav": "^0.4.5",
     "google-maps-react": "^2.0.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.7.0",
     "react-image-lightbox": "^5.1.0",
